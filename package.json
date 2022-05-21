@@ -2,9 +2,9 @@
   "name": "js_auto3",
   "version": "1.0.0",
   "description": "playwrite test",
-  "main": "tests/autorisation.js",
+  "main": "index.js",
   "scripts": {
-    "test": "playwright"
+    "test": "playwright test"
   },
   "repository": {
     "type": "git",
